@@ -1,0 +1,23 @@
+{
+  "name": "notzoomzoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stardtek/NotZoomZoom.git"
+  },
+  "author": "ZO RS MG GH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stardtek/NotZoomZoom/issues"
+  },
+  "homepage": "https://github.com/stardtek/NotZoomZoom#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2"
+  }
+}
